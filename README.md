@@ -2,10 +2,11 @@
 🌱 I’m currently learning Python.
 ⚡ Fun fact: I'm a chemist.
 
-![image](https://user-images.githubusercontent.com/110016471/203308040-7f91c159-48d8-4033-bd00-ff005e63e79f.png)
+![image](https://user-images.githubusercontent.com/110016471/203313471-9b9e3f4a-722c-4142-bf86-b08908c0406f.png)
 
-Main language:
+<p><strong>Main language:</strong></p>
 
-<img src="![image](https://user-images.githubusercontent.com/110016471/203310445-704040fb-b30a-466b-95ff-9e45c2f93d9b.png)" 
-     width="100" 
-     height="100" />
+
+![Python svg](https://user-images.githubusercontent.com/110016471/203311434-e47486cf-5ff7-43c0-b962-e8d47ae64f14.png)
+
+
