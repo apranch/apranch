@@ -2,7 +2,7 @@
 🌱 I’m currently learning Python.
 ⚡ Fun fact: I'm a chemist.
 
-![image](https://user-images.githubusercontent.com/110016471/203313471-9b9e3f4a-722c-4142-bf86-b08908c0406f.png)
+![image](https://user-images.githubusercontent.com/110016471/203313833-e0a95c01-7b48-4c71-8210-0a8f331a6392.png)
 
 <p><strong>Main language:</strong></p>
 
